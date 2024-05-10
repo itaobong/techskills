@@ -23,7 +23,7 @@ Welcome to the IT Skills Development learning path! This curated guide is design
    - Learn the basics of version control.
    - Understand Git workflow and terminology.
    - Hands-on practice with Git commands and GitHub repositories.
-   - Resources: [Git Online Tutorials](https://www.youtube.com/watch?v=8JJ101D3knE) like Git official documentation, Git - The Simple Guide, GitHub Learning Lab.
+   - Resources: [Git Online Tutorials](https://www.youtube.com/watch?v=8JJ101D3knE) like Git official documentation, Git - The Simple Guide, [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf).
 
    ### Module 2: Advanced Git Concepts
    - Branching and merging strategies.
