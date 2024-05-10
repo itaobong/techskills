@@ -2,18 +2,18 @@
 
 Welcome to the IT Skills Development learning path! This curated guide is designed to help you acquire proficiency in various essential IT skills. Whether you're a beginner or looking to enhance your expertise, this learning path offers a structured approach to mastering the following topics:
 
-1.  Git and GitHub
-2.  Azure Fundamentals
-3.  DevOps Fundamentals
-4.  Programming with C#
-5.  REST API and Microsoft Graph
-6.  Agile Software Development
-7.  ITIL v4
-8.  Database Design
-9.  M365 Administrator
-10. Power Platform
+   ## 1.  Git and GitHub
+   ## 2.  Azure Fundamentals
+   ## 3.  DevOps Fundamentals
+   ## 4.  Programming with C#
+   ## 5.  REST API and Microsoft Graph
+   ## 6.  Agile Software Development
+   ## 7.  ITIL v4
+   ## 8.  Database Design
+   ## 9.  M365 Administrator
+   ## 10. Power Platform
 
-Each topic is broken down into modules, with recommended resources and activities for comprehensive learning.
+
 
 ## 1. Git and GitHub
 
